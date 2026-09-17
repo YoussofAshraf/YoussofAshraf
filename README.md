@@ -146,7 +146,7 @@ I’m actively exploring AI through projects involving:
 
 - GitHub: [@YoussofAshraf](https://github.com/YoussofAshraf)
 - LinkedIn: [Youssof Ashraf](https://www.linkedin.com/)
-- Email: Add your professional email here
+- Email: YoussefAshraf.cs@gmail.com
 
 ---
 
