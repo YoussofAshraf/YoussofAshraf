@@ -96,8 +96,6 @@ $ cat /etc/profile
 └────────────────────────────────────────────────────────────────┘
 ```
 
-> Stats are refreshed daily at 12:17 UTC via GitHub Actions.  
-> See `.github/workflows/update_profile.yml` for the pipeline.
 
 </div>
 
@@ -238,10 +236,7 @@ $ cat /etc/profile
 
 ---
 
-```
-$ exit
-connection to yousef_ashraf closed. // EOF
-```
+
 
 </div>
 
