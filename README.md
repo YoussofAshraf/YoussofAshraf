@@ -9,7 +9,7 @@
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
 ```
 
-### `// OPERATOR IDENT: YOUSEF ASHRAF` • `// SYSTEM STATUS: ONLINE`
+### `// Name: YOUSEF ASHRAF` • `// SYSTEM STATUS: ONLINE`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F3FF&center=true&vcenter=true&width=600&lines=CORE_CLASS%3A+.NET+%2B+FULL-STACK+ENGINEER;AUGMENTATION%3A+GEN-AI+%2F+RAG+SYSTEMS;SYSTEM_ARCH%3A+CLEAN+%2B+CQRS;INITIALIZING+NEURAL+LINK...)](https://git.io/typing-svg)
 
@@ -26,9 +26,10 @@
 <br />
 
 ```yaml
-# SYSTEM_DIAGNOSTICS.yml
-OPERATOR: "Yousef Ashraf"
-CLASS: "Software Engineer / System Architect"
+# ENGINEER_BRIEF.yml
+NAME: "Yousef Ashraf"
+CLASS: "Software Engineer / AI Engineer / Researcher"
+# PERSONAL SKILLS
 PRIMARY_CORE: ["C#", ".NET", "ASP.NET Core", "Entity Framework", "ABP"]
 FRONTEND_LAYER: ["Angular", "TypeScript", "Vue.js", "JavaScript"]
 AI_AUGMENTATIONS: ["GenAI", "RAG Systems", "Python", "Computer Vision", "NLP"]
@@ -38,7 +39,7 @@ PHILOSOPHY: "Learn continuously. Build intentionally. Share knowledge."
 
 <br />
 
-## ⚡ SYSTEM_CAPABILITIES
+## ⚡ PERSON_CAPABILITIES
 
 <div align="center">
 
@@ -71,7 +72,7 @@ PHILOSOPHY: "Learn continuously. Build intentionally. Share knowledge."
 
 <br />
 
-### `// SECONDARY_PROTOCOLS`
+### `// SECONDARY_SKILLS`
 `C++` • `Java` • `Go` • `Dart` • `SQL` • `Bash` • `Git` • `TDD` • `Design Patterns`
 
 </div>
