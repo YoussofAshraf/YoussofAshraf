@@ -1,47 +1,111 @@
+<!--
+CYBERPUNK CONSOLE README
+Adapted from the design principles in:
+"I Turned My GitHub Profile Into a Cyberpunk Console With a City Built From My Contributions"
+https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c
+
+This README uses the "SVG as image" loophole: GitHub embeds SVGs as locked-down images,
+but inside those SVGs you can use CSS animations, fonts, and all the tricks needed for
+the cyberpunk terminal aesthetic.
+
+The profile updates itself daily via .github/workflows/update_profile.yml
+-->
+<div align="center">
+  <!-- writing:start -->
+  <!-- writing:end -->
+</div>
+
 <div align="center">
 
-```text
-██╗   ██╗██████╗ ██╗   ██╗███████╗███████╗███████╗    █████╗ ███████╗██╗  ██╗██████╗  █████╗ ███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝   ██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║███████╗█████╗  █████╗     ███████║███████╗███████║██████╔╝███████║█████╗  
-  ╚██╔╝  ██║   ██║██║   ██║╚════██║██╔══╝  ██╔══╝     ██╔══██║╚════██║██╔══██║██╔══██╗██╔══██║██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝███████║███████╗██║        ██║  ██║███████║██║  ██║██║  ██║██║  ██║██║     
-   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
-```
+<img src="https://avatars.githubusercontent.com/u/88270964?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d9ff; box-shadow: 0 0 20px #00d9ff;" alt="avatar">
 
-### `// Name: YOUSEF ASHRAF` • `// SYSTEM STATUS: ONLINE`
+#  Y O U S E F &nbsp; A S H R A F
+
+> *Software Engineer @ Zid.sa | AI Engineer | .NET Full-Stack Developer*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F3FF&center=true&vcenter=true&width=600&lines=CORE_CLASS%3A+.NET+%2B+FULL-STACK+ENGINEER;AUGMENTATION%3A+GEN-AI+%2F+RAG+SYSTEMS;SYSTEM_ARCH%3A+CLEAN+%2B+CQRS;INITIALIZING+NEURAL+LINK...)](https://git.io/typing-svg)
+</div>
 
----
 
-<!-- Status Badges -->
-[![System](https://img.shields.io/badge/CORE-.NET%20%2F%20C%23-00f3ff?style=for-the-badge&logo=dotnet&logoColor=black)](#)
-[![Security](https://img.shields.io/badge/AI-GEN--AI%20%2F%20RAG-ff0055?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Matrix](https://img.shields.io/badge/ARCH-CLEAN%20%2F%20CQRS-00ff66?style=for-the-badge&logo=diagramsdotnet&logoColor=black)](#)
-[![Clearance](https://img.shields.io/badge/STATUS-OPEN%20FOR%20CONTRACTS-ffe600?style=for-the-badge&logo=radar&logoColor=black)](#)
+<div align="center">
+
+```
+┌────────────────────────────────┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐──────────────────────────────────┐     
+│                                                                                                         │
+│                                                                                                         │
+│  ██╗   ██╗██████╗ ██╗   ██╗███████╗███████╗███████╗    █████╗ ███████╗██╗  ██╗██████╗  █████╗ ███████╗  │
+│  ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝   ██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝ │
+│  ╚████╔╝ ██║   ██║██║   ██║███████╗█████╗  █████╗     ███████║███████╗███████║██████╔╝███████║█████╗    │
+│    ╚██╔╝  ██║   ██║██║   ██║╚════██║██╔══╝  ██╔══╝     ██╔══██║╚════██║██╔══██║██╔══██╗██╔══██║██╔══╝   │
+│    ██║   ╚██████╔╝╚██████╔╝███████║███████╗██║        ██║  ██║███████║██║  ██║██║  ██║██║  ██║██║       │
+│    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝       │
+│                                                                                                         │
+│                                                                                                         │
+│              CYBERPUNK TERMINAL v3.0  |  USER: YoussofAshraf  |  HOST: github.com                       │
+│                                                                                                         │
+└─────────────────────────────────┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘┘──────────────────────────────────┘
+```
 
 </div>
 
-<br />
+<div align="center">
 
-```yaml
-# ENGINEER_BRIEF.yml
-NAME: "Yousef Ashraf"
-CLASS: "Software Engineer / AI Engineer / Researcher"
-# PERSONAL SKILLS
-PRIMARY_CORE: ["C#", ".NET", "ASP.NET Core", "Entity Framework", "ABP"]
-FRONTEND_LAYER: ["Angular", "TypeScript", "Vue.js", "JavaScript"]
-AI_AUGMENTATIONS: ["GenAI", "RAG Systems", "Python", "Computer Vision", "NLP"]
-ARCHITECTURE_PATTERN: ["Clean Architecture", "CQRS", "IdentityServer", "REST APIs"]
-PHILOSOPHY: "Learn continuously. Build intentionally. Share knowledge."
+## [`>`] Connection Established — Profile Loaded [`<`]
+
+```
+$ whoami
+yousef_ashraf
+$ cat /etc/profile
+┌── SYSTEM PROFILE ──────────────────────────────────────────────┐
+│  Name:        Yousef Ashraf                                    │
+│  Role:        Software Engineer @ Zid.sa                       │
+│  Specialties:  AI Engineering | .NET Full-Stack | C#           │
+│  Location:    Egypt, Cairo                                     │
+│  Stack:       Python • TypeScript • C# • JavaScript • SQL      │
+│  Active:      Since Aug 2021 (4+ years)                        │
+└────────────────────────────────────────────────────────────────┘
 ```
 
-<br />
-
-## ⚡ PERSON_CAPABILITIES
+</div>
 
 <div align="center">
+
+---
+
+##  S T A T S  &nbsp; &mdash; &nbsp; D A I L Y &nbsp; C O R E  U P D A T E
+
+```
+┌─ FETCHING: github.com/users/YoussofAshraf ─────────────────────┐
+│                                                                │
+│  CONTRIBUTIONS (yr) ..  ███████████████░░░░░░░░░░░░░░░░░░░░░   │
+│  CONTRIBUTIONS (all) .. ████████████░░░░░░░░░░░░░░░░░░░░░░░░   │
+│  CURRENT STREAK ....... ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
+│  LONGEST STREAK ....... ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
+│                                                                │
+│  TOP LANGUAGES:                                                │
+│  C# ..................  ██████████████████████████████████░░   │
+│  Python ..............  ██████████████████████░░░░░░░░░░░░░░   │
+│  TypeScript ..........  ████████████████████████████████████   │
+│  Shell ...............  ██████████████████░░░░░░░░░░░░░░░░░░   │
+│  Java ................  █████████████░░░░░░░░░░░░░░░░░░░░░░░   │
+│  Go   ................. ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
+│  Dart ................. ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
+│  C++  ................  ████████████████████░░░░░░░░░░░░░░░░   │
+│                                                                │
+│  LAST FETCH: 2026-10-08 12:00:00 UTC                           │
+└────────────────────────────────────────────────────────────────┘
+```
+
+> Stats are refreshed daily at 12:17 UTC via GitHub Actions.  
+> See `.github/workflows/update_profile.yml` for the pipeline.
+
+</div>
+
+<div align="center">
+
+---
+
+## ⚡ C A P A B I L I T I E S  &nbsp; &mdash; &nbsp; T E C H  S T A C K
 
 ### `// BACKEND_ENGINES`
 <img src="https://img.shields.io/badge/C%23-00F3FF?style=for-the-badge&logo=csharp&logoColor=black" />
@@ -70,65 +134,114 @@ PHILOSOPHY: "Learn continuously. Build intentionally. Share knowledge."
 <img src="https://img.shields.io/badge/Computer_Vision-00FF66?style=for-the-badge&logo=opencv&logoColor=black" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-<br />
-
-### `// SECONDARY_SKILLS`
-`C++` • `Java` • `Go` • `Dart` • `SQL` • `Bash` • `Git` • `TDD` • `Design Patterns`
-
 </div>
-
----
-
-## 💾 SECTOR_MODULES (PROJECT_AREAS)
-
-```
-[01_BACKEND_CORE] ═════════════════════════════════════════════════════════════════
- ‣ Enterprise ASP.NET Core APIs & ABP Framework Architecture
- ‣ CQRS implementation & Entity Framework relational schemas
- ‣ Healthcare / Clinic & Academic Management Systems
-
-[02_FRONTEND_LAYER] ══════════════════════════════════════════════════════════════
- ‣ Reactive Angular & Vue.js application architecture
- ‣ E-commerce user interfaces & interactive web apps
-
-[03_AI_NEURAL_NETWORKS] ══════════════════════════════════════════════════════════
- ‣ AI-powered e-commerce assistants & RAG pipeline integration
- ‣ Computer Vision: Sign language & hand gesture recognition systems
-```
-
----
-
-## 📊 TELEMETRY_METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoussofAshraf&show_icons=true&theme=radium&count_private=true&border_color=00f3ff&title_color=ff0055&icon_color=00f3ff&text_color=ffffff&bg_color=0d0e15" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussofAshraf&layout=compact&theme=radium&border_color=ff0055&title_color=00f3ff&text_color=ffffff&bg_color=0d0e15" height="175" />
+---
 
-<br /><br />
+##  C O N T R I B U T I O N &nbsp; C I T Y  —  N E O N  D I S T R I C T
 
-<img src="https://streak-stats.demolab.com?user=YoussofAshraf&theme=radium&border=ff0055&background=0D0E15&fire=00f3ff&ring=00f3ff&currStreakLabel=00ff66" height="170" />
+```
+                              ╭─────────────────╮
+                              │  ○  ○  ○  ○  ○   │  ← Stars
+                              ╰─────────────────╯
+
+  ┌─────────────────────────────────────────────────────────────┐
+  │  ████    ██      ██  ██████    ██      ██  ██████    ████   │
+  │  ████    ██      ██  ██   ██   ██      ██  ██   ██   ████   │
+  │  ██  ██    ██  ██    ██  ███   ██████████  ██████  ██  ██   │
+  │  ██  ██      ██      ██  ███   ██████████  ██  ██  ██  ██   │
+  │                              [ ████ ] ← You are here        │
+  │                                                             │
+  │  ████    ██    ██    ██████  ██    ██  ██████  ██  ████     │
+  │  ████    ██    ██  ██  ██    ██  ██  ██  ██      ██  ████   │
+  │  ██  ██  ████████  ██████    ██████  ██  █████   ██  ██  ██ │
+  │  ██  ██  ██  ██  ██    ██      ██  ██  ██  ██    ██  ██  ██ │
+  │                                                             │
+  │  ██      ████████  ██████  ██  ██  ██    ██  ████████  ███  │
+  │  ██      ██  ██  ██  ██    ██  ██  ██    ██  ██  ██  ██  ██ │
+  │  █████   ██  ██  ██  ██    ███████  ██████  ██  ██  █████   │
+  │  █████   ██  ██  ██  ██    ███████  ██████  ██  ██  █████   │
+  └─────────────────────────────────────────────────────────────┘
+
+  LEGEND: ████ = active day (commits, PRs, issues)
+          ███   = medium activity
+          ██    = light activity  
+          ░░░   = no contributions (empty lot)
+          ○     = weekend / boundary
+```
 
 </div>
-
----
-
-## 📡 ESTABLISH_COMMUNICATION
-
-```
- 🌐 GITHUB    >>  https://github.com/YoussofAshraf
- 💼 LINKEDIN  >>  https://www.linkedin.com/in/YoussofAshraf
- 📧 EMAIL     >>  YoussefAshraf.cs@gmail.com
-```
-
----
 
 <div align="center">
 
-```text
-[ SYSTEM LOG: Learn continuously // Build intentionally // Share knowledge ]
+---
+
+##  P R O J E C T S  &mdash;  F E A T U R E D  &nbsp; R E P O S
+
+```
+┌──────────────┬──────────────────────────────────────────┐
+│ Repository   │ Description                              │
+├──────────────┼──────────────────────────────────────────┤
+│ mini-rag     │ Backend RAG implementation (Python)      │
+│              │ ★ 0  ⑂ 0  • 2026-06-20                   │
+├──────────────┼──────────────────────────────────────────┤
+│ Ecommerce-AI │ E-commerce with AI Assistant (TS)        │
+│              │ ★ 0  ⑂ 0  • 2025-09-12                   │
+├──────────────┼──────────────────────────────────────────┤
+│ Hands-Gestures│ Hand gesture translator for hearing     │
+│              │ impaired (Python)                        │
+│              │ ★ 0  ⑂ 0  • 2025-12-12                   │
+├──────────────┼──────────────────────────────────────────┤
+│ RankerApp    │ TypeScript application                   │
+│              │ ★ 0  ⑂ 0  • 2024-09-14                   │
+└──────────────┴──────────────────────────────────────────┘
 ```
 
-`// END OF TRANSMISSION`
+</div>
+
+<div align="center">
+
+---
+
+##  W R I T I N G  &mdash;  N E A R   F U T U R E
+
+<!-- writing:start -->
+```
+┌─ RECENT WRITINGS ──────────────────────────────────────────────┐
+│  No articles found yet. Watch this space.                      │
+│                                                                │
+│  Writing section auto-populates from DEV.to articles.          │
+└────────────────────────────────────────────────────────────────┘
+```
+<!-- writing:end -->
 
 </div>
+
+<div align="center">
+
+---
+
+```
+┌─ CONNECT ──────────────────────────────────────────────────────┐
+│                                                                │
+│  [💻]  github.com/YoussofAshraf                                │
+│  [📱]  @Yousef_Rashed47 (Twitter/X)                            │
+│  [📧]  youssefashraf.cs@gmail.com                              │
+│                                                                │
+│  Currently building: AI agents • .NET microservices            │
+│  Currently learning: LLM fine-tuning • Rust                    │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+$ exit
+connection to yousef_ashraf closed. // EOF
+```
+
+</div>
+
